@@ -1,0 +1,2 @@
+total_churn_events,reactivation_events,reactivation_rate_pct,preceding_upgrade_events,preceding_upgrade_pct,preceding_downgrade_events,preceding_downgrade_pct,total_refund_amount
+600,61,10.17,123,20.5,53,8.83,8652.25

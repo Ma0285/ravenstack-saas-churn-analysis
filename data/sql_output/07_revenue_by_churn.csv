@@ -1,0 +1,3 @@
+analysis_churn_flag,account_count,avg_subscription_count,total_subscription_mrr,total_subscription_arr,active_subscription_count,active_mrr_amount,active_arr_amount,avg_upgrade_count,avg_downgrade_count,avg_trial_subscription_count,auto_renew_subscription_pct
+0,148,9.95,3347765.0,40173180.0,1338,3019740.0,36236880.0,0.95,0.39,1.62,80.16
+1,352,10.02,7990982.0,95891784.0,3176,7139868.0,85678416.0,1.11,0.45,1.53,80.07

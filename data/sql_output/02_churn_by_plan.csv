@@ -1,0 +1,4 @@
+plan_tier,total_accounts,churned_accounts,churn_rate_pct
+Pro,178,129,72.47
+Enterprise,154,108,70.13
+Basic,168,115,68.45

@@ -1,0 +1,10 @@
+check,count,unit
+Duplicate usage_id values,21,identifier values
+Feature-usage rows affected by duplicate usage_id,42,rows
+Usage rows before subscription start,19142,rows
+Usage rows after subscription end,290,rows
+Valid feature-usage rows,5568,rows
+Support tickets before account signup,1077,rows
+Valid support tickets,923,rows
+Source non-churn accounts with event,277,accounts
+Source churn accounts without event,35,accounts
